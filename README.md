@@ -1,6 +1,6 @@
 # PATACAISSE C64
 <br/>
-PATACAISSE C64 is a Commodore 64 rushour like game,<br/>
+PATACAISSE C64 is a Commodore 64 RushHour like game,<br/>
 based on PATACAISSE VG5000 by BDCIRON.
 <br/>
 <br/>
