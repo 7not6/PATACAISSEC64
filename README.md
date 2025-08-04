@@ -4,8 +4,15 @@
 PATACAISSE C64 is a Commodore 64 rushour like game,
 based on PATACAISSE VG5000 by BDCIRON.
 
-GFX design:BDCIRON (adapted for c64)
-CODE & SFX :7not6
+OSCAR64 compiler https://github.com/drmortalwombat/oscar64  
+is used to compile the project:
+
+```oscar64 -n patac64.c``` 
+
+
+
+Gfx Design : BDCIRON (adapted for c64)  
+Code & Sfx : 7not6
 
 Thanks to HEAD-OVER-HEELS for testing.
 
