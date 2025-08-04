@@ -6,7 +6,7 @@ based on PATACAISSE VG5000 by BDCIRON.
 <br/>
 <img src="https://github.com/7not6/PATACAISSEC64/blob/main/intro.png" width="400"/>
 
-<img src="https://github.com/7not6/PATACAISSEC64/blob/main/ingmae.png" width="400"/>
+<img src="https://github.com/7not6/PATACAISSEC64/blob/main/ingame.png" width="400"/>
 
 <br/>
 <br/>
