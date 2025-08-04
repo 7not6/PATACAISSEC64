@@ -1,10 +1,13 @@
-# PATACAISSEC64
-Rush Hour like game (Commodore 64 version)
+# PATACAISSE C64
 
-PATACAISSE 64 IS A RUSHOUR LIKE GAME BASED ON PATACAISSE VG5000 BY BDCIRON 
-GFX DESIGN:BDCIRON (ADAPTED FOR C64 BY ME) 
-THANKS TO HEAD-OVER-HEELS FOR TESTING.
 
-CODE & SFX:7NOT6 
+PATACAISSE C64 is a Commodore 64 rushour like game,
+based on PATACAISSE VG5000 by BDCIRON.
 
-HAVE A NICE DAY!           
+GFX design:BDCIRON (adapted for c64)
+CODE & SFX :7not6
+
+Thanks to HEAD-OVER-HEELS for testing.
+
+Have a nice day!
+       
